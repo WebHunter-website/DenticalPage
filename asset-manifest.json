@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/DenticalPage/static/css/main.6bf25893.chunk.css",
-    "main.js": "/DenticalPage/static/js/main.e4140d5e.chunk.js",
-    "main.js.map": "/DenticalPage/static/js/main.e4140d5e.chunk.js.map",
+    "main.css": "/DenticalPage/static/css/main.9eb6e41e.chunk.css",
+    "main.js": "/DenticalPage/static/js/main.92409e36.chunk.js",
+    "main.js.map": "/DenticalPage/static/js/main.92409e36.chunk.js.map",
     "runtime-main.js": "/DenticalPage/static/js/runtime-main.94f8b2be.js",
     "runtime-main.js.map": "/DenticalPage/static/js/runtime-main.94f8b2be.js.map",
     "static/js/2.0d642c35.chunk.js": "/DenticalPage/static/js/2.0d642c35.chunk.js",
     "static/js/2.0d642c35.chunk.js.map": "/DenticalPage/static/js/2.0d642c35.chunk.js.map",
     "index.html": "/DenticalPage/index.html",
-    "static/css/main.6bf25893.chunk.css.map": "/DenticalPage/static/css/main.6bf25893.chunk.css.map",
+    "static/css/main.9eb6e41e.chunk.css.map": "/DenticalPage/static/css/main.9eb6e41e.chunk.css.map",
     "static/js/2.0d642c35.chunk.js.LICENSE.txt": "/DenticalPage/static/js/2.0d642c35.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/DenticalPage/static/media/dental.265522a2.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.94f8b2be.js",
     "static/js/2.0d642c35.chunk.js",
-    "static/css/main.6bf25893.chunk.css",
-    "static/js/main.e4140d5e.chunk.js"
+    "static/css/main.9eb6e41e.chunk.css",
+    "static/js/main.92409e36.chunk.js"
   ]
 }
